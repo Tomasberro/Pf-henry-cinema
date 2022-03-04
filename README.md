@@ -13,17 +13,17 @@ style="width: 100%;
   <img style="width: 30%" src="./client/src/assets/2022-03-04 (11).png" alt=""  >
 </div>
 <div>
-    <img style="width: 33%" src="./client/src/assets/2022-03-04 (1).png" alt=""  >
-    <img style="width: 33%" src="./client/src/assets/2022-03-04 (2).png" alt=""  >
-  <img style="width: 33%" src="./client/src/assets/2022-03-04 (3).png" alt=""  >
+    <img style="width: 30%" src="./client/src/assets/2022-03-04 (1).png" alt=""  >
+    <img style="width: 30%" src="./client/src/assets/2022-03-04 (2).png" alt=""  >
+  <img style="width: 30%" src="./client/src/assets/2022-03-04 (3).png" alt=""  >
   </div>
   
   <div>
-    <img style="width: 33%" src="./client/src/assets/2022-03-04 (4).png" alt=""  >
-    <img style="width: 33%" src="./client/src/assets/2022-03-04 (6).png" alt=""  >
-  <img style="width: 33%" src="./client/src/assets/2022-03-04 (7).png" alt=""  >
+    <img style="width: 30%" src="./client/src/assets/2022-03-04 (4).png" alt=""  >
+    <img style="width: 30%" src="./client/src/assets/2022-03-04 (6).png" alt=""  >
+  <img style="width: 30%" src="./client/src/assets/2022-03-04 (7).png" alt=""  >
   </div>
   <div>
-    <img style="width: 33%" src="./client/src/assets/2022-03-04 (8).png" alt=""  >
-  <img style="width: 33%" src="./client/src/assets/2022-03-04 (9).png" alt=""  >
+    <img style="width: 30%" src="./client/src/assets/2022-03-04 (8).png" alt=""  >
+  <img style="width: 30%" src="./client/src/assets/2022-03-04 (9).png" alt=""  >
   </div>
