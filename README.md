@@ -8,9 +8,9 @@ style="width: 100%;
         flex-direction: column; 
         align-items: center; 
         justify-content: center">
-    <img style="width: 33%" src="./client/src/assets/2022-03-04.png" alt="" >
-   <img style="width: 33%" src="./client/src/assets/2022-03-04 (10).png" alt=""  >
-  <img style="width: 33%" src="./client/src/assets/2022-03-04 (11).png" alt=""  >
+    <img style="width: 30%" src="./client/src/assets/2022-03-04.png" alt="" >
+   <img style="width: 30%" src="./client/src/assets/2022-03-04 (10).png" alt=""  >
+  <img style="width: 30%" src="./client/src/assets/2022-03-04 (11).png" alt=""  >
 </div>
 <div>
     <img style="width: 33%" src="./client/src/assets/2022-03-04 (1).png" alt=""  >
